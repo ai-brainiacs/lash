@@ -1,4 +1,4 @@
-# ash
+# lash
 
 ash is an AI-operated Linux shell that allows users to interact with their operating system using natural language commands. Instead of typing traditional Linux commands, users can communicate with a ChatGPT-powered natural language assistant who will facilitate the execution of the proper commands on behalf of the user as requested.
 
